@@ -1,0 +1,16 @@
+#+OPTIONS: toc:nil
+#+AUTHOR: Glauber Prado
+#+EMAIL: prado.glauber@unifesp.br
+#+DATE: 24-11-2020 
+\maketitle 
+* Introdução
+  Todos sabemos programar e isso não é algo muito dificil, fazer um software
+  simples funcionar é algo que até uma criança é capaz. O problema é escalar
+  isso e conseguir uma arquitetura que permita aumentar esse código de forma que
+  não quebre todo o resto e você tenha que reescrever tudo que já foi feito.
+  
+  O que vamos aprender nesta matéria é justamente isso, uma forma de codificar
+  utilizando um arquitetura limpa em que cada componente está no seu devido
+  lugar e que não interfere na inserção de novos componentes. Pra isso vamos
+  utilizar um design inspirado em Robert C. Martin em seu livro: "Clean
+  Architecture: A Craftsman’s Guide to Software Structure".
